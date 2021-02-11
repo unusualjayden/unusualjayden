@@ -1,6 +1,6 @@
 ### Hey, I'm Karriem👋
 
-I love coding in Python :snake:. 
+I love coding on Python :snake:. 
 
 In search of new job as a Junior Developer 👶. 
 
