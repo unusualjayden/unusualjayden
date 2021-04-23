@@ -3,9 +3,12 @@
 I love coding on Python :snake:.
 
 Exploring new frameworks and tech!
+<br/>
 
-Best way to reach out to me is [via e-mail](mailto:listentowoes@gmail.com) or [via Telegram](https://t.me/souslash).
-<br />
+### Best ways to reach out to me: 
+<a href="https://t.me/souslash"><img width="40px" src="https://img.icons8.com/fluent/96/000000/telegram-app.png"/></a>
+<a href="mailto:listentowoes@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+<br/>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png"/>
