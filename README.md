@@ -12,3 +12,4 @@ Best way to reach out to me is [via e-mail](mailto:listentowoes@gmail.com) or [v
 <img align="left" alt="Django" height="26px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"/>
 <img align="left" alt="PSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>
 <img align="left" alt="Docker" height="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"/>
+<img align="left" alt="Redis" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg"/>
