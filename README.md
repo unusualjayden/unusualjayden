@@ -1,6 +1,4 @@
-### Hey, I'm Karriem👋
-
-I love coding on Python :snake:.
+### Hey, I'm Karriem
 
 Exploring new frameworks and tech!
 <br/>
