@@ -1,7 +1,8 @@
 ## Hey!ヾ( ˃ᴗ˂ )◞ • *✰ 
 ### My name is Karim
-- Currently working at [@jetrockets](https://github.com/jetrockets)
-- I write in Ruby, TS, and Python
+- Building web products
+- Ruby/Rails • TypeScript
+- I like shipping, refactoring, and making complex things feel simple
 
 Best ways to reach me 
 - <a href="https://t.me/tapedeck/">Telegram</a>
